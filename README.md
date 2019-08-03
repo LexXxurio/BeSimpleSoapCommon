@@ -1,6 +1,6 @@
 # BeSimpleSoapCommon
 
-The BeSimpleSoapCommon component contains functionylity shared by both the server and client implementations.
+The BeSimpleSoapCommon component contains functionality shared by both the server and client implementations.
 
 # Features
 
@@ -21,7 +21,7 @@ Create a `composer.json` file:
 ```json
 {
     "require": {
-        "besimple/soap-common": "0.2.*@dev"
+        "lexxxurio/besimple-soap-common": "dev-master"
     }
 }
 ```

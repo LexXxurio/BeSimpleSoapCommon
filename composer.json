@@ -1,5 +1,5 @@
 {
-    "name": "besimple/soap-common",
+    "name": "lexxxurio/besimple-soap-common",
     "type": "library",
     "description": "Build and consume SOAP Common based web services",
     "keywords": [ "soap", "soap-common" ],
@@ -29,12 +29,11 @@
         "mikey179/vfsStream": "~1.0"
     },
     "autoload": {
-        "psr-0": { "BeSimple\\SoapCommon": "" }
+        "psr-4": { "BeSimple\\SoapCommon": "src\" }
     },
-    "target-dir": "BeSimple/SoapCommon",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.3-dev"
+            "dev-master": "master-dev"
         }
     }
 }

@@ -29,7 +29,7 @@
         "mikey179/vfsStream": "~1.0"
     },
     "autoload": {
-        "psr-4": { "BeSimple\\SoapCommon": "src/" }
+        "psr-4": { "BeSimple\\SoapCommon\\": "src/" }
     },
     "extra": {
         "branch-alias": {
